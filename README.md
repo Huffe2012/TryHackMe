@@ -10,3 +10,9 @@
 - In this lab, I gained an understanding of the role and importance of governance and regulation in cybersecurity, including international laws, policies, and standards. I explored the Governance, Risk Management, and Compliance (GRC) framework and learned how to strengthen my own cybersecurity posture using frameworks like ISO 27001 and NIST 800-53.
 
 ![image](https://github.com/user-attachments/assets/0e79437a-316e-4897-8f2f-7bd8506fd71d)
+
+**Introductory Networking**
+
+- In this lab, I learned about the OSI and TCP/IP models, how they work in real life, and got introduced to basic networking tools like ping, traceroute, whois, and dig to check connections and gather info about networks.
+
+![image](https://github.com/user-attachments/assets/4dd78a19-3e1d-4ea7-bc5a-3a3eccbf7309)
