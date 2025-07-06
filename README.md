@@ -16,3 +16,9 @@
 - In this lab, I learned about the OSI and TCP/IP models, how they work in real life, and got introduced to basic networking tools like ping, traceroute, whois, and dig to check connections and gather info about networks.
 
 ![image](https://github.com/user-attachments/assets/4dd78a19-3e1d-4ea7-bc5a-3a3eccbf7309)
+
+**Defensive Security**
+
+- In this lab, I was introduced to defensive security concepts including Threat Intelligence, SOC operations, DFIR, Malware Analysis, and SIEM fundamentals.
+
+![image](https://github.com/user-attachments/assets/33377ce7-dcba-468f-8e8a-7856a3cb25c6)
