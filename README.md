@@ -22,3 +22,7 @@
 - In this lab, I was introduced to defensive security concepts including Threat Intelligence, SOC operations, DFIR, Malware Analysis, and SIEM fundamentals.
 
 ![image](https://github.com/user-attachments/assets/33377ce7-dcba-468f-8e8a-7856a3cb25c6)
+
+In this lesson I learned about offensive security and ethical hacking.
+
+![image](https://github.com/user-attachments/assets/5b725b5c-2af2-4363-9bef-b57a072a9623)
