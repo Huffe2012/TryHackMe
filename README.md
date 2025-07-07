@@ -23,10 +23,15 @@
 
 ![image](https://github.com/user-attachments/assets/33377ce7-dcba-468f-8e8a-7856a3cb25c6)
 
-In this lesson I learned about offensive security and ethical hacking.
+**Offesnive Sevurity**
+
+- In this lesson I learned about offensive security and ethical hacking.
 
 ![image](https://github.com/user-attachments/assets/5b725b5c-2af2-4363-9bef-b57a072a9623)
 
 
-In this lab, I learned the fundamentals of Linux by practicing core commands such as ls, cd, cat, grep, and output redirection using > and >>.
+**Linux Fundamentals**
+
+- In this lab, I learned the fundamentals of Linux by practicing core commands such as ls, cd, cat, grep, and output redirection using > and >>.
+  
 ![image](https://github.com/user-attachments/assets/2d35313b-37ff-4a5c-a9ff-3a87f600656b)
