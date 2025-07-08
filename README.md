@@ -35,3 +35,11 @@
 - In this lab, I learned the fundamentals of Linux by practicing core commands such as ls, cd, cat, grep, and output redirection using > and >>.
   
 ![image](https://github.com/user-attachments/assets/2d35313b-37ff-4a5c-a9ff-3a87f600656b)
+
+
+**OSINT**
+
+- In this lesson, I learned how to effectively use OSINT (Open-Source Intelligence) techniques to uncover and analyze publicly available information online.
+
+![image](https://github.com/user-attachments/assets/62696ec3-285e-4974-84ab-45adcf01d043)
+
